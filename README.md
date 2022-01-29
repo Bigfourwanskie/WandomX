@@ -17,11 +17,11 @@
                                              
                              
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Send us your games!. If you have a certain game you want to publishm tell us in our discord server! we would glady try our best to upload it to our site.
+# Send us your games!. If you have a certain game you want to publishm tell us in our discord server! we would glady try our best to upload it to our site.
 
 
 
-v For devs only v
+# v For devs only v
 
-IF you have a game file that you would like to upload to our site (with credits)
-Dm us on discord with your game name, ZIP file and any other info you would like us to have.
+# IF you have a game file that you would like to upload to our site (with credits)
+# Dm us on discord with your game name, ZIP file and any other info you would like us to have.

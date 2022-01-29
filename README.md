@@ -4,8 +4,8 @@
 # This site was published on 1/29/22 
                # 
               # v Owners/Devs v
-                    # Sam, Marcus, Devin and John
                    
+                   # Sam, Marcus, Devin and John
                        # v Our Discord v
                             # https://discord.gg/gEdUW8tF
                                # v Our goal v

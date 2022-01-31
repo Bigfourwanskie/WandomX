@@ -25,3 +25,25 @@
 
 # IF you have a game file that you would like to upload to our site (with credits)
 # Dm us on discord with your game name, ZIP file and any other info you would like us to have.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+About us:
+
+ We are four middle school students who enjoy coding and scripting, we enjoy playing games a making code. 
+ 
+       Website design/creation > Marcus 
+       
+       Game uploader > 
+       
+       Game Creators > devin john and sam 
+       
+       game tester > Grayson, 
+       
+       Model maker > sam 
+        
+       Motivator > Marcus 
+       
+       Discord server manager > Sam
+       
+       Scripters > Marcus , devin , john 

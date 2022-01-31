@@ -28,22 +28,22 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-About us:
+# About us:
 
- We are four middle school students who enjoy coding and scripting, we enjoy playing games a making code. 
+# We are four middle school students who enjoy coding and scripting, we enjoy playing games a making code. 
  
-       Website design/creation > Marcus 
+       # Website design/creation > Marcus 
        
-       Game uploader > 
+        # Game uploader > 
        
-       Game Creators > devin john and sam 
+          # Game Creators > devin john and sam 
        
-       game tester > Grayson, 
+            # game tester > Grayson, 
        
-       Model maker > sam 
+              # Model maker > sam 
         
-       Motivator > Marcus 
+                # Motivator > Marcus 
        
-       Discord server manager > Sam
+                   # Discord server manager > Sam
        
-       Scripters > Marcus , devin , john 
+                       # Scripters > Marcus , devin , john 
